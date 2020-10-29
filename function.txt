@@ -1,5 +1,5 @@
-function a(master){
+function a(exp){
 
 }
-function b(master2){
+function b(exp){
 }
