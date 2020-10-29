@@ -1,5 +1,6 @@
-function a(master1212){
+function a(master1){
 
 }
-function b(master21212){
+function b(master2){
+
 }
