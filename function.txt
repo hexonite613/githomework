@@ -1,0 +1,6 @@
+function a(master){
+
+}
+function b(master2){
+
+}
