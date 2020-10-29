@@ -1,6 +1,0 @@
-function a(master1){
-
-}
-function b(master2){
-
-}
