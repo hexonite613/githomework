@@ -1,4 +1,4 @@
-function a(master1){
+function a(master){
 
 }
 function b(master2){
